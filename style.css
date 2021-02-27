@@ -1,0 +1,63 @@
+.ui-page{
+	background :rgb(68, 61, 61)
+}
+
+.help{
+	
+}
+.talk{
+	background : linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+	color : rgb(204, 167, 167);
+	width : 400;
+	height : 200;
+	font-family: 'Big Shoulders Stencil Text', cursive;
+	font-size: 40px;
+	border-radius: 50px;
+	text-transform: uppercase;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.talk:hover{
+	background: linear-gradient(90deg, #fa7199, #f5ce62, #e43603, #fa7199);
+	color: cyan;
+}
+
+.content{
+    color: cyan;
+}
+
+p{
+	font-size: 160px;
+	color: red;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2{
+	color: rgba(255, 255, 255, 0.622);
+	font-family: Jokerman;
+	text-align: center;
+}
+
+marquee{
+/* padding-top: 150; */
+font-family:  'Hanalei Fill', cursive;
+color: rgba(255, 255, 255, 0.622);
+font-size: 36;
+position: absolute; 
+bottom: 0; 
+left: 0; 
+width: 100%; 
+text-align: center;
+}
+
+.talker{
+	text-align: center;
+}
+
+.header{
+margin-top: 0px;
+}
